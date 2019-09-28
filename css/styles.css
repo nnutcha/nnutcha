@@ -1,0 +1,72 @@
+body {
+  background-color: #d6f5eb;
+  margin: 0;
+  text-align: center;
+  font-family: 'Quicksand', sans-serif;
+}
+hr {
+  border-style: dotted none none none;
+  width: 50px;
+  border-color: #7fe6d0;
+  border-width: 8px;
+}
+
+h1{
+  font-size: 50px;
+  font-weight: bold;
+  color: #1d957b;
+  margin top: 0;
+}
+.topic {
+  color: #26c09e;
+  weight: normal;
+}
+h2 {
+  color: #26c09e;
+}
+
+
+.top-container {
+
+  position: relative;
+  padding-top: 100PX;
+}
+
+.top-cloud{
+  position: absolute;
+  right: :300px;
+  top: 50px;
+}
+
+.bottom-cloud{
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.middle-container{
+  background-color: white;
+}
+.nnutcha {
+  border-radius: 100%;
+}
+.skill-logo {
+  width: 200px;
+  height: 170px;
+
+}
+
+.skill-row {
+  width: 100%;
+  margin: auto 600px auto 600px;
+  text-align: left;
+}
+.education-row {
+  width: 100%;
+  margin: auto 600px auto 600px;
+  text-align: left;
+}
+
+.bottom-container{
+  background-color: white;
+}
